@@ -59,6 +59,7 @@ let result3 = myUniqMap(for: arry) { String($0) }
 //MARK: - Full generic function with extenstion is method for Array type
 
 extension Array {
+    
     func myMap<T>(_ transform: (Element) -> T) -> [T] {
         var newArr: [T] = []
         for element in self {
@@ -66,5 +67,16 @@ extension Array {
         }
         return newArr
     }
+    
+    func myFilter<T>(_ transform:(Element) -> Bool) -> [T] {
+        var newArr: [T] = []
+        for element in self {
+            if transform(element) {
+                newArr.append(element)
+            }
+        }
+        return newArr
+    }
 }
+
 
