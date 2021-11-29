@@ -1,2 +1,4 @@
 # LanguageTraining
-readme for me
+
+ - Clousers
+ - { get set }
