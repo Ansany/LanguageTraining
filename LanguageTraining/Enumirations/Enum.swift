@@ -153,4 +153,4 @@ func evaluate(_ expression: ArithmeticExpression2) -> Int {
         return evaluate(left) * evaluate(right)
     }
 }
-print(evaluate(product))  // 18
+print(evaluate(product)) // 18

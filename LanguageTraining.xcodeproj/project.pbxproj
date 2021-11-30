@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		045186442756495B000BFE29 /* Enum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045186432756495B000BFE29 /* Enum.swift */; };
+		04518647275649E4000BFE29 /* Enum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04518646275649E4000BFE29 /* Enum.swift */; };
 		04F79350274E586100A3D42F /* Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F7934F274E586100A3D42F /* Closures.swift */; };
 /* End PBXBuildFile section */
 
@@ -24,7 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		045186432756495B000BFE29 /* Enum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enum.swift; sourceTree = "<group>"; };
+		04518646275649E4000BFE29 /* Enum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enum.swift; sourceTree = "<group>"; };
 		04B095162750DC8E001C6132 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		04B095172750DC8E001C6132 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04B095192750DC8E001C6132 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -52,6 +52,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		04518645275649D9000BFE29 /* Enumirations */ = {
+			isa = PBXGroup;
+			children = (
+				04518646275649E4000BFE29 /* Enum.swift */,
+			);
+			path = Enumirations;
+			sourceTree = "<group>";
+		};
 		04B095142750DC8E001C6132 /* didSet test */ = {
 			isa = PBXGroup;
 			children = (
@@ -103,14 +111,6 @@
 			path = View;
 			sourceTree = "<group>";
 		};
-		04B0954027564901001C6132 /* Enum */ = {
-			isa = PBXGroup;
-			children = (
-				045186432756495B000BFE29 /* Enum.swift */,
-			);
-			path = Enum;
-			sourceTree = "<group>";
-		};
 		04F79343274E586100A3D42F = {
 			isa = PBXGroup;
 			children = (
@@ -130,7 +130,7 @@
 		04F7934E274E586100A3D42F /* LanguageTraining */ = {
 			isa = PBXGroup;
 			children = (
-				04B0954027564901001C6132 /* Enum */,
+				04518645275649D9000BFE29 /* Enumirations */,
 				04F7935D2750DC0D00A3D42F /* New */,
 				04F7935C2750DBFF00A3D42F /* Clousers */,
 			);
@@ -211,7 +211,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				045186442756495B000BFE29 /* Enum.swift in Sources */,
+				04518647275649E4000BFE29 /* Enum.swift in Sources */,
 				04F79350274E586100A3D42F /* Closures.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
