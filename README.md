@@ -5,3 +5,4 @@ This repository is for helping me, it's something like lecture notes with exampl
  - Clousers
  - { get set }
  - Enumerations
+ - Properties
