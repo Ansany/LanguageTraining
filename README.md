@@ -6,3 +6,4 @@ This repository is for helping me, it's something like lecture notes with exampl
  - { get set }
  - Enumerations
  - Properties
+ - Methods
