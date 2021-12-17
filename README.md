@@ -8,4 +8,5 @@ Information was taken from docs.swift.org (The Swift programming language SWIFT 
  - [Properties](https://github.com/Ansany/LanguageTraining/blob/main/LanguageTraining/Properties/Properties.swift)
  - [Methods](https://github.com/Ansany/LanguageTraining/blob/main/LanguageTraining/Methods/Methods.swift)
  - [Subscripts](https://github.com/Ansany/LanguageTraining/blob/main/LanguageTraining/Subscripts/Subsripts.swift)
+ - [ARC](https://github.com/Ansany/LanguageTraining/blob/main/LanguageTraining/ARC/ARC.swift)
  - { get set }
