@@ -1,0 +1,140 @@
+[
+	{
+		"type": "Banners",
+		"title": "Banners",
+		"items": [
+			{
+				"itemName": "banner1",
+				"itemImage": "banner1",
+				"itemDescription": null,
+                "itemPrice": null
+			},
+			{
+                "itemName": "banner2",
+                "itemImage": "banner2",
+                "itemDescription": null,
+                "itemPrice": null
+			}
+		]
+	},
+    {
+        "type": "Categories",
+        "title": "Categories",
+        "items": [
+            {
+                "itemName": "Пицца",
+                "itemImage": null,
+                "itemDescription": null,
+                "itemPrice": null
+            },
+            {
+                "itemName": "Комбо",
+                "itemImage": null,
+                "itemDescription": null,
+                "itemPrice": null
+            },
+            {
+                "itemName": "Десерты",
+                "itemImage": null,
+                "itemDescription": null,
+                "itemPrice": null
+            },
+            {
+                "itemName": "Напитки",
+                "itemImage": null,
+                "itemDescription": null,
+                "itemPrice": null
+            }
+        ]
+    },
+    {
+        "type": "Pizza",
+        "title": "Pizza",
+        "items": [
+            {
+                "itemName": "Чиззи чеддер",
+                "itemImage": "https://dodopizza-a.akamaihd.net/static/Img/Products/e8611a418a46438d8a14fbe07fbfc051_584x584.jpeg",
+                "itemDescription": "Ветчина, сыр чеддер, сладкий перец, моцарелла, томатный соус, итальянские травы, чеснок",
+                "itemPrice": "от 395"
+            },
+            {
+                "itemName": "Цыпленок блю чиз",
+                "itemImage": "https://dodopizza-a.akamaihd.net/static/Img/Products/d13580ce1bbc42e997ba4296ed7b69a1_584x584.jpeg",
+                "itemDescription": "Цыпленок, сыр блю чиз, томаты, моцарелла, соус альфредо",
+                "itemPrice": "от 445"
+            },
+            {
+                "itemName": "Нежный лосось",
+                "itemImage": "https://dodopizza-a.akamaihd.net/static/Img/Products/f5efd84790134654b9eb84c89f2c9ca8_584x584.jpeg",
+                "itemDescription": "Запеченный лосось, томаты черри, моцарелла, соус песто и соус альфредо",
+                "itemPrice": "от 495"
+            },
+            {
+                "itemName": "Пепперони фреш",
+                "itemImage": "https://dodopizza-a.akamaihd.net/static/Img/Products/5dffe4c7d3bc49668f50c1d08d920992_584x584.jpeg",
+                "itemDescription": "Томатный соус, увеличенная порция моцареллы, пепперони и томаты",
+                "itemPrice": "от 245"
+            }
+        ]
+    },
+    {
+        "type": "Combo",
+        "title": "Combo",
+        "items": [
+            {
+                "itemName": "Комбо за 599 ₽",
+                "itemImage": "https://cdn.dodostatic.net/static/Img/ComboTemplates/8d968fa2074344c58be293c6fb86b104_584x584.jpeg",
+                "itemDescription": "Наш хит «Аррива!» или другая пицца 25 см, Додстер, напиток и соус.",
+                "itemPrice": "599"
+            },
+            {
+                "itemName": "2 пиццы",
+                "itemImage": "https://cdn.dodostatic.net/static/Img/ComboTemplates/2594aac866704a0ba022e6689e641b63_584x584.jpeg",
+                "itemDescription": "Самое популярное комбо из 2 пицц 30 см. Большой выбор",
+                "itemPrice": "899"
+            },
+            {
+                "itemName": "Вместе вкуснее",
+                "itemImage": "https://cdn.dodostatic.net/static/Img/ComboTemplates/47377ac8483d4e3b8bcdb5329d5e362e_584x584.jpeg",
+                "itemDescription": "2 пиццы 25 см и 2 напитка.",
+                "itemPrice": "799"
+            }
+        ]
+    },
+    {
+        "type": "Desserts",
+        "title": "Desserts",
+        "items": [
+            {
+                "itemName": "Яблочный пирог",
+                "itemImage": "https://dodopizza-a.akamaihd.net/static/Img/Products/c810798810a947cfb071ae825230bed4_584x584.jpeg",
+                "itemDescription": "Десерт из песочного теста с яблочной начинкой. Может содержать изюм",
+                "itemPrice": "119"
+            },
+            {
+                "itemName": "Чизкейк Нью-Йорк",
+                "itemImage": "https://dodopizza-a.akamaihd.net/static/Img/Products/Desserts/ru-RU/d3784f23-cc6b-4678-91d8-2a0cf5b8b1dd.jpg",
+                "itemDescription": "Классический американский творожный десерт",
+                "itemPrice": "119"
+            }
+        ]
+    },
+    {
+        "type": "Drinks",
+        "title": "Drinks",
+        "items": [
+            {
+                "itemName": "Coca-Cola",
+                "itemImage": "https://dodopizza-a.akamaihd.net/static/Img/Products/Drinks/ru-RU/3e245152-1a34-441e-8eeb-0cde9c099777.jpg",
+                "itemDescription": "Классический напиток",
+                "itemPrice": "95"
+            },
+            {
+                "itemName": "Sprite",
+                "itemImage": "https://dodopizza-a.akamaihd.net/static/Img/Products/Drinks/ru-RU/f6579d82-765f-4be5-a476-c2bab3fdf361.jpg",
+                "itemDescription": "Уталяет жажду",
+                "itemPrice": "95"
+            }
+        ]
+    }
+]
