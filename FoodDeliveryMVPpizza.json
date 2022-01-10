@@ -5,11 +5,15 @@
 		"items": [
 			{
 				"itemName": "banner1",
-				"itemImage": "banner1"
+				"itemImage": "banner1",
+				"itemDescription": null,
+                "itemPrice": null
 			},
 			{
                 "itemName": "banner2",
-                "itemImage": "banner2"
+                "itemImage": "banner2",
+                "itemDescription": null,
+                "itemPrice": null
 			}
 		]
 	},
@@ -18,16 +22,28 @@
         "title": "Categories",
         "items": [
             {
-                "itemName": "Пицца"
+                "itemName": "Пицца",
+                "itemImage": null,
+                "itemDescription": null,
+                "itemPrice": null
             },
             {
-                "itemName": "Комбо"
+                "itemName": "Комбо",
+                "itemImage": null,
+                "itemDescription": null,
+                "itemPrice": null
             },
             {
-                "itemName": "Десерты"
+                "itemName": "Десерты",
+                "itemImage": null,
+                "itemDescription": null,
+                "itemPrice": null
             },
             {
-                "itemName": "Напитки"
+                "itemName": "Напитки",
+                "itemImage": null,
+                "itemDescription": null,
+                "itemPrice": null
             }
         ]
     },
