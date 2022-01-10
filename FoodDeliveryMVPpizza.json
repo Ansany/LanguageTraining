@@ -22,28 +22,16 @@
         "title": "Categories",
         "items": [
             {
-                "itemName": "Пицца",
-                "itemImage": null,
-                "itemDescription": null,
-                "itemPrice": null
+                "itemName": "Пицца"
             },
             {
-                "itemName": "Комбо",
-                "itemImage": null,
-                "itemDescription": null,
-                "itemPrice": null
+                "itemName": "Комбо"
             },
             {
-                "itemName": "Десерты",
-                "itemImage": null,
-                "itemDescription": null,
-                "itemPrice": null
+                "itemName": "Десерты"
             },
             {
-                "itemName": "Напитки",
-                "itemImage": null,
-                "itemDescription": null,
-                "itemPrice": null
+                "itemName": "Напитки"
             }
         ]
     },
