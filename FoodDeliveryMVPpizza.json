@@ -5,15 +5,11 @@
 		"items": [
 			{
 				"itemName": "banner1",
-				"itemImage": "banner1",
-				"itemDescription": null,
-                "itemPrice": null
+				"itemImage": "banner1"
 			},
 			{
                 "itemName": "banner2",
-                "itemImage": "banner2",
-                "itemDescription": null,
-                "itemPrice": null
+                "itemImage": "banner2"
 			}
 		]
 	},
